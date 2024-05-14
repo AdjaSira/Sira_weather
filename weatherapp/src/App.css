@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.weather-info {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.weather-info p {
+  margin: 5px 0;
+}
